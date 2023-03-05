@@ -1,0 +1,8 @@
+{
+    "java": {
+      "snippets": {
+        "sout": "System.out.println('');"
+      }
+    }
+  }
+  

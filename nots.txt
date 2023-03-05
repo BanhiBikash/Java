@@ -1,0 +1,7 @@
+Methods
+
+String.charAt(index);
+Return the charater at the mentioned index of string.
+
+String.codeAtPoint(index);
+Returns the ASCII value of charater at that index.
